@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes} checked by tsc
+ */
+export { IonBottomDrawerModule } from './modules/ion-bottom-drawer/ion-bottom-drawer.module';
+export { DrawerState } from './modules/ion-bottom-drawer/drawer-state';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2lvbi1ib3R0b20tZHJhd2VyLyIsInNvdXJjZXMiOlsicHVibGljX2FwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBQUEsT0FBTyxFQUFFLHFCQUFxQixFQUFFLE1BQU0sc0RBQXNELENBQUM7QUFDN0YsT0FBTyxFQUFFLFdBQVcsRUFBRSxNQUFNLDBDQUEwQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IHsgSW9uQm90dG9tRHJhd2VyTW9kdWxlIH0gZnJvbSAnLi9tb2R1bGVzL2lvbi1ib3R0b20tZHJhd2VyL2lvbi1ib3R0b20tZHJhd2VyLm1vZHVsZSc7XG5leHBvcnQgeyBEcmF3ZXJTdGF0ZSB9IGZyb20gJy4vbW9kdWxlcy9pb24tYm90dG9tLWRyYXdlci9kcmF3ZXItc3RhdGUnO1xuIl19
